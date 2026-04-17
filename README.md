@@ -1,1 +1,1 @@
-# pythonproject17
+# Поліморфізм. Інкапсуляція. Dunder методи у Python
